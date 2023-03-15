@@ -7,7 +7,7 @@
   "description": "A Drag Ruler speed provider for Old-School Essentials",
   "author": "Randy Eckenrode",
 
-  "manifest": "https://github.com/amir-arad/ose-speed-provider/blob/production/module.json",
+  "manifest": "https://raw.githubusercontent.com/amir-arad/ose-speed-provider/production/module.json",
   "download": "https://github.com/amir-arad/ose-speed-provider/archive/prod-0.0.1.zip",
 
   "compatibleCoreVersion": "0.7.9",
