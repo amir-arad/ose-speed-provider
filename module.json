@@ -1,22 +1,17 @@
 {
   "name": "ose-speed-provider",
   "version": "0.10.7",
-  "url": "https://github.com/reckenrode/ose-speed-provider",
+  "url": "https://github.com/amir-arad/ose-speed-provider/blob/production",
 
   "title": "OSE Speed Provider",
   "description": "A Drag Ruler speed provider for Old-School Essentials",
   "author": "Randy Eckenrode",
 
-  "manifest": "https://raw.githubusercontent.com/reckenrode/ose-speed-provider/main/module.json",
-  "download": "https://github.com/reckenrode/ose-speed-provider/archive/v0.10.7.zip",
+  "manifest": "https://github.com/amir-arad/ose-speed-provider/blob/production/module.json",
 
-  "compatibleCoreVersion" : "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
   "minimumCoreVersion": "0.7.9",
 
-  "languages": [
-    {"lang": "en", "name": "English", "path": "lang/en.json"}
-  ],
-  "scripts": [
-    "scripts/speed-provider.js"
-  ]
+  "languages": [{ "lang": "en", "name": "English", "path": "lang/en.json" }],
+  "scripts": ["scripts/speed-provider.js"]
 }
